@@ -1,7 +1,0 @@
-{
-    "files.associations": {
-        "iostream": "cpp",
-        "cmath": "cpp"
-    },
-    "cmake.sourceDirectory": "/home/abby/Documents/C++ Project | IT/raylib/src/external/glfw"
-}
